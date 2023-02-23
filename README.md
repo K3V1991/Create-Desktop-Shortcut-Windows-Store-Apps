@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/1qngYv5/Shortcut.png" width="200"></a>
+<p align="center"><img src="https://github.com/K3V1991/Create-Desktop-Shortcut-Windows-Store-Apps/blob/main/Shortcut.png" width="200"></a>
 <h1 align="center"><b>How to create a Desktop Shortcut for Windows Store Apps</b></h1>
 <br />
 <br />
