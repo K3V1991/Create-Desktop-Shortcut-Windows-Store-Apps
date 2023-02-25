@@ -3,6 +3,14 @@
 <br />
 <br />
 
+<p align="center">
+<a href="https://ko-fi.com/k3v1991" alt="Ko-fi"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"> &emsp;
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HW8B98TVDLKWA" alt="PayPal"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"> &emsp;
+<a href="https://github.com/K3V1991/Donate-Crypto/blob/main/README.md" alt="Crypto"><img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
+</p>
+<hr />
+<br />
+
 ## NFO:
 * The best Thing about the Microsoft Store is that it makes installing and uninstalling Apps easy and Clutter-free. 
 * Additionally, all the Store Apps are automatically updated in the Background so that you no longer have to deal with the individual Update or Upgrade Prompts. 
